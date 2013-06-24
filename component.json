@@ -8,7 +8,7 @@
     "env",
     "NODE_ENV",
     "environment",
-    "development",
+    "development"
   ],
   "dependencies": {},
   "development": {
