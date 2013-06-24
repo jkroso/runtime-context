@@ -1,0 +1,21 @@
+{
+  "name": "runtime-context",
+  "repo": "jkroso/runtime-context",
+  "description": "are we in development or production",
+  "version": "1.0.0",
+  "keywords": [
+    "production",
+    "env",
+    "NODE_ENV",
+    "environment",
+    "development",
+  ],
+  "dependencies": {},
+  "development": {
+    "jkroso/serve": "1.4.1"
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "license": "MIT"
+}

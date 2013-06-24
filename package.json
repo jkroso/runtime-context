@@ -1,0 +1,17 @@
+{
+  "name": "runtime-context",
+  "version": "0.1.0",
+  "description": "are we in development or production",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jkroso/runtime-context.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jkroso/runtime-context/issues"
+  },
+  "keywords": ["is development", "production", "env", "NODE_ENV", "environment", "development", "is production"],
+  "author": "Jake Rosoman",
+  "license": "MIT"
+}
